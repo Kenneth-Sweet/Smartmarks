@@ -1,0 +1,14 @@
+body {
+  background-color: #eee;
+}
+
+.table {
+  background-color: #557DB0;
+  
+}
+
+a {
+  color: #DE7116;
+  text-shadow:
+		1px 1px 0 #000;
+}
